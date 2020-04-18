@@ -2,4 +2,4 @@
 
 Desenvolvido um chat com resposta no mesmo minuto através de Node.JS e Socket.io
 
-![Alt text](/examplechat.png?raw=true "Print de duas telas interagindo pelo chat")
+![Alt text](/example_chat.png?raw=true "Print de duas telas interagindo pelo chat")
